@@ -132,7 +132,7 @@ I'm always open to interesting conversations, collaborations, and new opportunit
 
 </div>
 
-------------------
+-----------------------------------
 
 <!-- Footer Banner -->
 <div align="center">

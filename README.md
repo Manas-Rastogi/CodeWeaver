@@ -1,3 +1,4 @@
+----------+++++++++++++----++++++++++++++++++++----
 <!-- Header Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:58A6FF&height=200&section=header&text=Hey,%20I'm%20Manas!%20👋&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Java%20%26%20Spring%20Boot%20Developer%20%7C%20Problem%20Solver%20%7C%20Always%20Learning&descAlignY=58&descSize=18&descColor=8B949E" width="100%"/>

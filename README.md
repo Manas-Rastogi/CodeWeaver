@@ -98,7 +98,7 @@ public class Manas extends Developer {
 | 🏗 **Type** | Full-Stack Web Application |
 | ⭐ **Goal** | Make code sharing as easy as sending a message |
 
----
+---------------------------------------------------
 
 ## 📊 GitHub Stats
 ---------------------------------------------------

@@ -122,7 +122,7 @@ public class Manas extends Developer {
 ---------------------------------------------------
 
 ## 📫 Let's Connect
-
+---------------------------------------------------
 <div align="center">
 
 I'm always open to interesting conversations, collaborations, and new opportunities.

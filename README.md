@@ -90,7 +90,7 @@ public class Manas extends Developer {
 [![CodeWeaver Card](https://github-readme-stats.vercel.app/api/pin/?username=Manas-Rastogi&repo=CodeWeaver&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)](https://github.com/Manas-Rastogi/CodeWeaver)
 
 </div>
-
+---------------------------------------------------
 > 🕸 **CodeWeaver** — A collaborative coding platform where developers can create, edit, and share code in real time.
 
 | | |

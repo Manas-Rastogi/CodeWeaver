@@ -132,7 +132,7 @@ I'm always open to interesting conversations, collaborations, and new opportunit
 | 💼 LinkedIn | [Connect with me](https://www.linkedin.com/) |
 | 📧 Email | [manasrastogi64@gmail.com](mailto:manasrastogi64@gmail.com) |
 | 🐙 GitHub | [Manas-Rastogi](https://github.com/Manas-Rastogi) |
-
+---------------------------------------------------
 </div>
 
 ---------------------------------------------------

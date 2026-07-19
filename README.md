@@ -73,7 +73,7 @@ public class Manas extends Developer {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
+---------------------------------------------------
 **Databases**
 ---------------------------------------------------
 ![MySQL](https://img.shields.io/badge/MySQL-4479A6?style=for-the-badge&logo=mysql&logoColor=white)

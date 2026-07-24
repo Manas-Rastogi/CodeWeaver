@@ -24,7 +24,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasrastogi64@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manas-Rastogi)
 [![Profile Views](https://komarev.com/ghpvc/?username=Manas-Rastogi&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/Manas-Rastogi)
-
+---------------------------------------------------
 </div>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -92,7 +92,7 @@ public class Manas extends Developer {
 </div>
 ---------------------------------------------------
 > 🕸 **CodeWeaver** — A collaborative coding platform where developers can create, edit, and share code in real time.
-
+---------------------------------------------------
 | | |
 |:---|:---|
 | 🛠 **Tech Stack** | Java · Spring Boot · MySQL · REST APIs |

@@ -105,7 +105,7 @@ public class Manas extends Developer {
 ## 📊 GitHub Stats
 ---------------------------------------------------
 <div align="center">
-
+---------------------------------------------------
 <img src="https://github-readme-stats.vercel.app/api?username=Manas-Rastogi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-Rastogi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180"/>
 

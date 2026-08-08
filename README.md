@@ -143,3 +143,4 @@ I'm always open to interesting conversations, collaborations, and new opportunit
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a1f35,100:0D1117&height=120&section=footer&text=⭐%20Code.%20Create.%20Conquer.&fontSize=28&fontColor=FFFFFF&fontAlignY=65" width="100%"/>
 </div>
 ---------------------------------------------------
+---------------------------------------------------

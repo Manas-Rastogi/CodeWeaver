@@ -27,7 +27,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Manas-Rastogi&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/Manas-Rastogi)
 ---------------------------------------------------
 </div>
-
+b
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------
 ## 🧑‍💻 About Me
@@ -79,7 +79,7 @@ public class Manas extends Developer {
 ---------------------------------------------------
 ![MySQL](https://img.shields.io/badge/MySQL-4479A6?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
+---------------------------------------------------
 </div>
 
 ---------------------------------------------------

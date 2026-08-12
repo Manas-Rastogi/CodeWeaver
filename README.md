@@ -40,7 +40,7 @@ public class Manas extends Developer {
     String currentWork = "CodeWeaver 🕸 — craft & share code seamlessly";
     String learning    = "Spring Security · Microservices · System Design";
     String motto       = "Clean code. Real impact. Always shipping.";
-
+---------------------------------------------------
     String[] funFacts  = {
         "I debug better with coffee ☕",
         "Git commit messages are my diary 📓",
